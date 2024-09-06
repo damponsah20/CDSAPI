@@ -1,1 +1,1 @@
-Script for downloading data 
+Script for downloading data from ERA5
