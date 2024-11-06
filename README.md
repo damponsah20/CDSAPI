@@ -1,1 +1,1 @@
-Script for downloading data from ERA5 using CDSAPI
+Script for downloading data from Copernicus Climate datastore using CDSAPI
